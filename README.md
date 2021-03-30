@@ -7,14 +7,19 @@
 ---
 
 ### My experience
-I worked with various enterprises and startups in Russia, Ukraine, Great Britain, and Argentina, offering all kinds of methods for developing their product.
-Such as supporting ready-made applications for creating a project from scratch and migrating to another technology stack.
+I am a passionate frontend developer with <b>4+</b> years of professional experience. My strongest skills are HTML5, CSS3, JavaScript(ES6) and React. Also I love to use the following technologies: Redux, Webpack, Git.
+</br>
+Our company provides services in Web and Mobile Development. Mostly we specialize in FinTeach and E-Commerce Business processes for start-ups and small- and medium-sized businesses.
+</br>
+<b>Justice Team</b> mission is to show fair treatment of people - our employees, clients, business partners, competitors, providing the best service and meeting the needs of clients and partners in IT solutions.
+</br>
+<b>OUR SERVICES:</b></br>
+<b>DIGITAL TRANSFORMATION</b> | we introduce advanced information technologies into your business</br>
+<b>SOFTWARE MODERNISATION</b> | we rewrite a legacy system to a modern programming languages and technologies</br>
+<b>CUSTOM AND FINTECH DEVELOPMENT</b> | individual approach and great experience in finance sphere</br>
+<b>DEDICATED TEAMS</b> | our clients can focus on higher-level tasks while our development team takes full responsibility for the IT solution</br>
+<b>BUSINESS PROCESS AUTOMATION</b> | your employees get rid of routine and mechanical tasks and get the opportunity to focus on new responsibilities or researching</br>
 
-- UI/UX design.
-- Frontend development.
-- Testing and debugging.
-- Support and maintenance.
-  <br />
 
 ### Languages and Tools
 
